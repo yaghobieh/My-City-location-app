@@ -21,6 +21,9 @@ Or
 react-native run-ios
 ```
 
+! Don't forget edit in android folder the local.properties file 
+To your android APK
+
 Created by [JFalcon](https://jfalcon.net)
 
 
